@@ -1,2 +1,5 @@
 k=int(input())
 print(k+10)
+a=int(input())
+b=int(input())
+print(a+b)
