@@ -1,8 +1,8 @@
-k=int(input())
-print(k+10)
-a=int(input())
-b=int(input())
-print(a+b)
+# s=(2,4,5,4)
+# index=s.index(4)
+# cout=s.count(4)
+# print(index,cout)
+# print(s,type(s))
 
 # def test (a,b):
 #     c=a+b
